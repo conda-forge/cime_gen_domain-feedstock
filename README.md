@@ -50,7 +50,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-cime_gen_domain-green.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-cime__gen__domain-green.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/cime_gen_domain.svg)](https://anaconda.org/conda-forge/cime_gen_domain) |
 
 Installing cime_gen_domain
 ==========================
