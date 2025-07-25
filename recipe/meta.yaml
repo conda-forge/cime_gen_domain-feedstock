@@ -1,5 +1,5 @@
 {% set name = "cime_gen_domain" %}
-{% set version = "6.1.109" %}
+{% set version = "6.1.110" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://github.com/ESMCI/cime/archive/refs/tags/cime{{ version }}.tar.gz
-    sha256: 90113b78ceb0217686096442232054eee5d9814914a898d39405e01436b6b0a1
+    sha256: 9f3feac97011f6a578f1da0b5cd7e4fe6797b4e5f749d9f2ffc54f38a73709ae
 
 build:
   skip: true  # [not linux]
